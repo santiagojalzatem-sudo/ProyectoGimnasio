@@ -1,4 +1,5 @@
 package uniquindio.edu.co.model;
 
-public class Premium {
+public class Premium extends Membresia {
+
 }
